@@ -52,6 +52,7 @@
   padding: 0;
   background-color: #282c34;
   font-weight: 700;
+  position: sticky;
 }
 .topNavbar *{
   display: inline;

@@ -8,7 +8,7 @@ const NavBar = () => (
         <NavLink exact to="/about" activeClassName="activeNav"> About </NavLink>   
         <NavLink to="/article" activeClassName="activeNav"> Articles </NavLink>   
         <div class="emptySpace"/> 
-        <a href="https://github.com/Francis1240/React-Blog-Project"> GitHub Repo</a>   
+        <a href="https://github.com/Francis1240/React-Blog-Project">GitHub Repo</a>   
     </nav>
 
 );
